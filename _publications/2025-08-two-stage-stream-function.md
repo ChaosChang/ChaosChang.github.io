@@ -2,7 +2,7 @@
 title: "Two-Stage Sketch-Based Smoke Illustration Generation Using Stream Function"
 index: 3
 collection: publications
-category: conference
+category: conferences
 date: 2025-08-01
 venue: 'ACM SIGGRAPH 2025, poster'
 authors: '**Hengyuan Chang**, Xiaoxuan Xie, Syuhei Sato, Haoran Xie'
