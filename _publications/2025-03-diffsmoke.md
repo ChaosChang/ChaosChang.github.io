@@ -7,7 +7,7 @@ date: 2025-03-01
 venue: 'IEEE Access'
 authors: '**Hengyuan Chang**, Tianyu Zhang, Syuhei Sato, Haoran Xie.'
 paperurl: 'https://ieeexplore.ieee.org/document/10912463'
-preview: 'images/publications/diffsmoke.png'
+preview: 'images/publications/diffsmoke.jpg'
 ---
 
 test.
