@@ -25,3 +25,7 @@ Ph.D. in Information Science, JAIST, Japan (2022.04 – 2026.03)
 M.S. in Information Science, JAIST, Japan (2020.04 – 2022.03)
 
 B.E. in Computer Science, Donghua University, China (2014.09 – 2018.06)
+
+---
+## Experiences
+2025.05 - 2026.02, Collaboration Research (remote), [Animins](https://www.meti.go.jp/policy/mono_info_service/geniac/selection_data_2/index.html), [OLM, Digital, Inc](https://www.olm.co.jp/rd), Japan.
