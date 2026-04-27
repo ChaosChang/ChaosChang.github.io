@@ -22,7 +22,6 @@ He received his bachelor's degree in computer science at Donghua University, Sha
 ---
 ## Selected Publications
 
-
 - DiffSmoke: Two-Stage Sketch-Based Smoke Illustration Design using Diffusion Models. IEEE Access, 2025.
 
 - Sketch-Guided Stylized Landscape Cinemagraph Synthesis. Computers & Graphics, 2026. 
