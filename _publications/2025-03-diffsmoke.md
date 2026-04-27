@@ -10,4 +10,3 @@ paperurl: 'https://ieeexplore.ieee.org/document/10912463'
 preview: 'images/publications/diffsmoke.jpg'
 ---
 
-test.
