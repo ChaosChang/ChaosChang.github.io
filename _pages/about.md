@@ -30,5 +30,7 @@ B.E. in Computer Science, Donghua University, China (2014.09 – 2018.06)
 ## Experiences
 2025.05 - 2026.02, Collaboration Research (remote), [ANIMINS](https://www.meti.go.jp/policy/mono_info_service/geniac/selection_data_2/index.html), [OLM, Digital, Inc](https://www.olm.co.jp/rd), Japan.
 
+2018.11 - 2020.02, research student, Tokyo Metropolitan University, Japan.
+
 ---
-## Sleected Publications
+## Selected Publications
