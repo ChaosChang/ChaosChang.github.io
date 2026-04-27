@@ -33,7 +33,7 @@ B.E. in Computer Science, Donghua University, China (2014.09 – 2018.06)
 2018.11 - 2020.02, research student, Tokyo Metropolitan University, Japan.
 
 ---
-## Selected Publications {: #publications}
+<h2 id="publications"> Selected Publications</h2>
 - DiffSmoke: Two-Stage Sketch-Based Smoke Illustration Design using Diffusion Models. IEEE Access, 2025.
 
 - Sketch-Guided Stylized Landscape Cinemagraph Synthesis. Computers & Graphics, 2026. 
