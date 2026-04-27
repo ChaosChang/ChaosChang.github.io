@@ -11,6 +11,12 @@ main:
   - title: "Publications"
     url: /#selected-publications
 
+  - title: "Experiences"
+    url: /#experiences  
+
+  - title: "Educations"
+    url: /#educations  
+
   # - title: "Talks"
   #   url: /talks/    
 
