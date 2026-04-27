@@ -23,7 +23,7 @@ He received his bachelor's degree in computer science at Donghua University, Sha
 ## Selected Publications
 
 
-{% assign selected_pubs = site.publications | sort: "date" | reverse %}
+{% assign selected_pubs = site.publications | sort: "index" %}
 
 {% for post in selected_pubs limit: 20 %}
 
