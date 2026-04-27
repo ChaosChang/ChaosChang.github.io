@@ -12,5 +12,7 @@ He received his bachelor's degree in computer science at Donghua University, Sha
 
 ## Research Interests
 **Image and video generation** with hand-drawn sketch guidance
+
 **Physics-informed** generation
+
 **Fluid data analysis**  and simulation
