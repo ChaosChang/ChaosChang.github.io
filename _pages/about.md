@@ -19,6 +19,18 @@ He received his bachelor's degree in computer science at Donghua University, Sha
 **Fluid data analysis**  and simulation
 
 ---
+## Selected Publications
+- DiffSmoke: Two-Stage Sketch-Based Smoke Illustration Design using Diffusion Models. IEEE Access, 2025.
+
+- Sketch-Guided Stylized Landscape Cinemagraph Synthesis. Computers & Graphics, 2026. 
+
+- Two-Stage Sketch-Based Smoke Illustration Generation Using Stream Function. ACM SIGGRAPH 2025, poster, 2025.
+
+- Physics-Aware Fluid Field Generation from User Sketches Using Helmholtz-Hodge Decomposition. NICOGRAPH International 2025. 
+
+- Sketch-Guided Flow Field Generation with Diffusion Model. International Workshop on Advanced Image Technology 2024.
+
+---
 ## Educations
 Ph.D. in Information Science, JAIST, Japan (2022.04 – 2026.03)
 
@@ -31,15 +43,3 @@ B.E. in Computer Science, Donghua University, China (2014.09 – 2018.06)
 2025.05 - 2026.02, Collaboration Research (remote), [ANIMINS](https://www.meti.go.jp/policy/mono_info_service/geniac/selection_data_2/index.html), [OLM, Digital, Inc](https://www.olm.co.jp/rd), Japan.
 
 2018.11 - 2020.02, research student, Tokyo Metropolitan University, Japan.
-
----
-## Selected Publications
-- DiffSmoke: Two-Stage Sketch-Based Smoke Illustration Design using Diffusion Models. IEEE Access, 2025.
-
-- Sketch-Guided Stylized Landscape Cinemagraph Synthesis. Computers & Graphics, 2026. 
-
-- Two-Stage Sketch-Based Smoke Illustration Generation Using Stream Function. ACM SIGGRAPH 2025, poster, 2025.
-
-- Physics-Aware Fluid Field Generation from User Sketches Using Helmholtz-Hodge Decomposition. NICOGRAPH International 2025. 
-
-- Sketch-Guided Flow Field Generation with Diffusion Model. International Workshop on Advanced Image Technology 2024.
