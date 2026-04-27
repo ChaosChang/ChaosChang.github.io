@@ -27,7 +27,7 @@ He received his bachelor's degree in computer science at Donghua University, Sha
 ### [{{ post.title }}]({{ post.url | relative_url }}) 
 {% if post.preview %} ![{{ post.title }}]({{ post.preview | relative_url }}) 
 {% endif %} 
-{% if post.citation%} {{ post.citation }}
+{% if post.authors%} {{ post.authors | markdownify }}
 {% endif %} 
 **{{ post.venue }}**, {{ post.date | date: "%Y" }} 
 {% if post.paperurl %} [Paper]({{ post.paperurl }}) 
