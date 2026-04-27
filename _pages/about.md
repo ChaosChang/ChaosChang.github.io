@@ -34,3 +34,12 @@ B.E. in Computer Science, Donghua University, China (2014.09 – 2018.06)
 
 ---
 ## Selected Publications
+- DiffSmoke: Two-Stage Sketch-Based Smoke Illustration Design using Diffusion Models. IEEE Access, 2025.
+
+- Sketch-Guided Stylized Landscape Cinemagraph Synthesis. Computers & Graphics, 2026. 
+
+- Two-Stage Sketch-Based Smoke Illustration Generation Using Stream Function. ACM SIGGRAPH 2025, poster, 2025.
+
+- Physics-Aware Fluid Field Generation from User Sketches Using Helmholtz-Hodge Decomposition. NICOGRAPH International 2025. 
+
+
