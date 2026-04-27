@@ -36,12 +36,6 @@ He received his bachelor's degree in computer science at Donghua University, Sha
 {% endif %} 
 {% endfor %}
 
-- Sketch-Guided Stylized Landscape Cinemagraph Synthesis. Computers & Graphics, 2026. 
-
-- Two-Stage Sketch-Based Smoke Illustration Generation Using Stream Function. ACM SIGGRAPH 2025, poster, 2025.
-
-- Physics-Aware Fluid Field Generation from User Sketches Using Helmholtz-Hodge Decomposition. NICOGRAPH International 2025. 
-
 - Sketch-Guided Flow Field Generation with Diffusion Model. International Workshop on Advanced Image Technology 2024.
 
 
