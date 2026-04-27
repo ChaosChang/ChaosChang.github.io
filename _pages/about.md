@@ -42,4 +42,4 @@ B.E. in Computer Science, Donghua University, China (2014.09 – 2018.06)
 
 - Physics-Aware Fluid Field Generation from User Sketches Using Helmholtz-Hodge Decomposition. NICOGRAPH International 2025. 
 
-- Sketch-Guided Flow Field Generation with Diffusion Model. International Workshop on Advanced Image Technology.
+- Sketch-Guided Flow Field Generation with Diffusion Model. International Workshop on Advanced Image Technology 2024.
