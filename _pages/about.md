@@ -22,6 +22,18 @@ He received his bachelor's degree in computer science at Donghua University, Sha
 ---
 ## Selected Publications
 
+{% assign selected_pubs = site.publications | sort: "index" %}
+{% for post in selected_pubs limit: 20 %} 
+### [{{ post.title }}]({{ post.url | relative_url }}) 
+{% if post.preview %} ![{{ post.title }}]({{ post.preview | relative_url }}) 
+{% endif %} 
+**{{ post.venue }}**, {{ post.date | date: "%Y" }} 
+{% if post.paperurl %} [Paper]({{ post.paperurl }}) 
+{% endif %} 
+{% if post.codeurl %} [Code]({{ post.codeurl }}) 
+{% endif %} 
+{% endfor %}
+
 - DiffSmoke: Two-Stage Sketch-Based Smoke Illustration Design using Diffusion Models. IEEE Access, 2025.
 
 - Sketch-Guided Stylized Landscape Cinemagraph Synthesis. Computers & Graphics, 2026. 
