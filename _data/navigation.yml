@@ -10,7 +10,7 @@
 main:
 
   - title: "About me"
-    url: /#selected-publications
+    url: /#short-bio
     
   - title: "Publications"
     url: /#selected-publications
